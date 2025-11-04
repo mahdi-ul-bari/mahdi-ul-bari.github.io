@@ -25,7 +25,7 @@ I am driven by curiosity, creativity, and compassion — integrating clinical in
 ## **Technical & Creative Skills**
 
 
-- **Programming & Analysis:** R, SPSS, Excel |
+- **Programming & Analysis:** R, SPSS, Excel
 - **Documentation & Productivity:** Microsoft Word, PowerPoint
 - **Design & Visualization:** Adobe Illustrator, Canva
 - **Languages:** Bangla (Native), English (Professional) 
