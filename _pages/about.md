@@ -24,12 +24,11 @@ I am driven by curiosity, creativity, and compassion — integrating clinical in
 
 ## **Technical & Creative Skills**
 
-| Category | Skills |
-|-----------|--------|
-| **Programming & Analysis** | R, SPSS, Excel |
-| **Documentation & Productivity** | Microsoft Word, PowerPoint |
-| **Design & Visualization** | Adobe Illustrator, Canva |
-| **Languages** | Bangla (Native), English (Professional) |
+
+- **Programming & Analysis:** R, SPSS, Excel |
+- **Documentation & Productivity:** Microsoft Word, PowerPoint
+- **Design & Visualization:** Adobe Illustrator, Canva
+- **Languages:** Bangla (Native), English (Professional) 
 
 ---
 ## **Professional Experience**
@@ -63,7 +62,7 @@ _March 2024 – February 2025_
 
 ---
 
-## **Volunteer Experience**
+## 🏅 **Volunteer Experience**
 
 - **Sports Physiotherapist**, *Mymensingh 25K Marathon 2024*  
 - **Volunteer Physiotherapist**, *CRP Musculoskeletal Department (Jan–Feb 2024)*  
@@ -76,11 +75,6 @@ _March 2024 – February 2025_
 - *Positioning & Early Mobilization after Burn Injury* — Tarek Hussain & Mercy Ama Agtuahene (UK EMT)  
 
 ---
-
-## ✨ **Personal Values**
-
-> **Empathy | Evidence | Innovation | Integrity**
-
 I believe that healthcare excellence stems from compassion backed by science.  
 My goal is to contribute to the advancement of **rehabilitation medicine** in Bangladesh and beyond through **research, education, and clinical innovation**.
 
