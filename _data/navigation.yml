@@ -1,4 +1,4 @@
-# The following is the order of the links in the header of the website.
+me# The following is the order of the links in the header of the website.
 #
 # Changing the order here will adjust the order and you can also add additional
 # links. Removing a link prevents it from showing in the header, but does not
@@ -9,7 +9,7 @@
 
 main:    
   - title: "CV"
-    url: "https://raw.githubusercontent.com/mahdi-ul-bari/mahdi-ul-bari.github.io/1st-commit/files/Mahdi_Ul_Bari_One_Page.pdf"
+    url: "https://raw.githubusercontent.com/mahdi-ul-bari/mahdi-ul-bari.github.io/1st-commit/files/Mahdi_Ul_Bari_Resume.pdf"
 
   - title: "Projects"
     url: /projects/
