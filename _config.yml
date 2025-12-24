@@ -31,7 +31,7 @@ author:
   employer         : "CRP"
   uri              : # URL
   email            : "mahdiulbari@gmail.com" 
-
+  linkedin         : "https://www.linkedin.com/in/mahdiulbari?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BD07d5NtfR8SxogDnoc%2F%2BXw%3D%3D"
   # Academic websites
   #academia         : # URL
   #arxiv            : # URL - Update with the correct link to your profile
@@ -63,7 +63,6 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
