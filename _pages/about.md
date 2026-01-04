@@ -4,7 +4,7 @@ title: "Welcome to My Portfolio"
 author_profile: true
 redirect_from: 
   - /about/
-  - /about.html
+  - /about.md
 ---
 
 I am a **Physiotherapist and Research Associate** passionate about evidence-based rehabilitation, functional recovery, and patient-centered care.  
