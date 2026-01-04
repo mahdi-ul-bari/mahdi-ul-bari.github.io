@@ -75,7 +75,14 @@ My goal is to contribute to the advancement of **rehabilitation medicine** in Ba
   *:not(i):not(.fa):not(.fab):not(.fas) {
     font-family: 'Merriweather', serif !important;
   }
-
+.sidebar i, 
+.author__urls i,
+.contact-list i {
+  width: 1.5rem !important; /* Adjust this value if you want more/less space */
+  text-align: center;      /* Centers the icon within that fixed width */
+  margin-right: 0.5rem;    /* Spacing between the icon and the text */
+  display: inline-block;
+}
   /* Specific fix to ensure Font Awesome uses its own font family */
   .fa-solid, .fa-brands, .fas, .fab, .fa {
     font-family: "Font Awesome 6 Free", "Font Awesome 6 Brands" !important;
