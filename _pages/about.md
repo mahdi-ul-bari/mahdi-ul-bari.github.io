@@ -56,12 +56,20 @@ _March 2024 – February 2025_
 I believe that healthcare excellence stems from compassion backed by science.  
 My goal is to contribute to the advancement of **rehabilitation medicine** in Bangladesh and beyond through **research, education, and clinical innovation**.
 ---
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
-
+<ul style="list-style: none; padding: 0;">
+  <li><i class="fa-solid fa-location-dot"></i> Dhaka, Bangladesh</li>
+  <li><i class="fa-solid fa-hospital"></i> CRP</li>
+  <li><i class="fa-solid fa-envelope"></i> Email</li>
+  <li><i class="fa-brands fa-orcid"></i> ORCID</li>
+  <li><i class="fa-brands fa-github"></i> GitHub</li>
+  <li><i class="fa-brands fa-linkedin"></i> LinkedIn</li>
+</ul>
 <style>
-  /* Force Merriweather on every element within this page */
+
   * {
     font-family: 'Merriweather', serif !important;
   }
