@@ -71,32 +71,32 @@ My goal is to contribute to the advancement of **rehabilitation medicine** in Ba
 </ul>
 
 <style>
-  /* Apply Merriweather to text, but EXCLUDE icons (i tags) */
+ 
   *:not(i):not(.fa):not(.fab):not(.fas) {
     font-family: 'Merriweather', serif !important;
   }
 .sidebar i, 
 .author__urls i,
 .contact-list i {
-  width: 1.5rem !important; /* Adjust this value if you want more/less space */
-  text-align: center;      /* Centers the icon within that fixed width */
-  margin-right: 0.5rem;    /* Spacing between the icon and the text */
+  width: 1.5rem !important; 
+  text-align: center;      
+  margin-right: 0.5rem;    
   display: inline-block;
 }
-  /* Specific fix to ensure Font Awesome uses its own font family */
+  
   .fa-solid, .fa-brands, .fas, .fab, .fa {
     font-family: "Font Awesome 6 Free", "Font Awesome 6 Brands" !important;
     font-weight: 900;
-    width: 25px; /* Aligns icons neatly */
+    width: 25px; 
     display: inline-block;
   }
 
-  /* Keep the background transparent */
+  
   body, .wrapper, .sidebar, .masthead {
     background-color: transparent !important;
   }
 
-  /* Maintenance of MD layout */
+ 
   h2 {
     margin-top: 2em;
     border-bottom: 1px solid #eee;
