@@ -8,13 +8,13 @@ redirect_from:
 ---
 I am a **Physiotherapist and Research Associate** passionate about evidence-based rehabilitation, functional recovery, and patient-centered care.  
 Currently serving at **CRP, Savar**, within the *Musculoskeletal Unit* while engaging in **research on circuit training and stroke rehabilitation**.  
-I am driven by curiosity, creativity, and compassion — integrating clinical insight with analytical and design thinking.
+I am driven by curiosity, creativity, and compassion in integrating clinical insight with analytical thinking.
 ---
 ## **Core Expertise**
-- **Physiotherapy & Rehabilitation:** Musculoskeletal, Neurological, Pediatric, and Spinal Cord Injury management  
-- **Research & Data Analysis:** Study design, data collection, R, SPSS  
-- **Academic Writing & Publication:** Manuscript preparation, journal submission, reference formatting  
-- **Health Education:** Patient counseling, community rehabilitation, ergonomic training  
+- *Physiotherapy & Rehabilitation:* Musculoskeletal, Neurological, Pediatric, and Spinal Cord Injury management  
+- *Research & Data Analysis:* Study design, data collection, R, SPSS  
+- *Academic Writing & Publication:* Manuscript preparation, journal submission, reference formatting  
+- *Health Education:* Patient counseling, community rehabilitation, ergonomic training  
 ---
 ## **Technical & Creative Skills**
 - **Programming & Analysis:** R, SPSS, Excel
