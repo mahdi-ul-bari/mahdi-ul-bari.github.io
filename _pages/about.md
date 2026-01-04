@@ -56,10 +56,11 @@ _March 2024 – February 2025_
 I believe that healthcare excellence stems from compassion backed by science.  
 My goal is to contribute to the advancement of **rehabilitation medicine** in Bangladesh and beyond through **research, education, and clinical innovation**.
 ---
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.4.2/css/all.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+
 <ul style="list-style: none; padding: 0;">
   <li><i class="fa-solid fa-location-dot"></i> Dhaka, Bangladesh</li>
   <li><i class="fa-solid fa-hospital"></i> CRP</li>
@@ -68,10 +69,19 @@ My goal is to contribute to the advancement of **rehabilitation medicine** in Ba
   <li><i class="fa-brands fa-github"></i> GitHub</li>
   <li><i class="fa-brands fa-linkedin"></i> LinkedIn</li>
 </ul>
-<style>
 
-  * {
+<style>
+  /* Apply Merriweather to text, but EXCLUDE icons (i tags) */
+  *:not(i):not(.fa):not(.fab):not(.fas) {
     font-family: 'Merriweather', serif !important;
+  }
+
+  /* Specific fix to ensure Font Awesome uses its own font family */
+  .fa-solid, .fa-brands, .fas, .fab, .fa {
+    font-family: "Font Awesome 6 Free", "Font Awesome 6 Brands" !important;
+    font-weight: 900;
+    width: 25px; /* Aligns icons neatly */
+    display: inline-block;
   }
 
   /* Keep the background transparent */
@@ -79,7 +89,7 @@ My goal is to contribute to the advancement of **rehabilitation medicine** in Ba
     background-color: transparent !important;
   }
 
-  /* Improve readability for your specific content */
+  /* Maintenance of MD layout */
   h2 {
     margin-top: 2em;
     border-bottom: 1px solid #eee;
