@@ -11,10 +11,9 @@ Currently serving at **CRP, Savar**, within the *Musculoskeletal Unit* while eng
 I am driven by curiosity, creativity, and compassion in integrating clinical insight with analytical thinking.
 ---
 ## **Core Expertise**
-- *Physiotherapy & Rehabilitation:* Musculoskeletal, Neurological, Pediatric, and Spinal Cord Injury management  
-- *Research & Data Analysis:* Study design, data collection, R, SPSS  
-- *Academic Writing & Publication:* Manuscript preparation, journal submission, reference formatting  
-- *Health Education:* Patient counseling, community rehabilitation, ergonomic training  
+- **Physiotherapy & Rehabilitation:** Musculoskeletal, Neurological, Pediatric, and Spinal Cord Injury management  
+- **Research & Data Analysis:** Study design, data collection, R, SPSS  
+- **Academic Writing & Publication:** Manuscript preparation, journal submission, reference formatting  
 ---
 ## **Technical & Creative Skills**
 - **Programming & Analysis:** R, SPSS, Excel
