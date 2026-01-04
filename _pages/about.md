@@ -60,15 +60,6 @@ My goal is to contribute to the advancement of **rehabilitation medicine** in Ba
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
 
-<ul style="list-style: none; padding: 0;">
-  <li><i class="fa-solid fa-location-dot"></i> Dhaka, Bangladesh</li>
-  <li><i class="fa-solid fa-hospital"></i> CRP</li>
-  <li><i class="fa-solid fa-envelope"></i> Email</li>
-  <li><i class="fa-brands fa-orcid"></i> ORCID</li>
-  <li><i class="fa-brands fa-github"></i> GitHub</li>
-  <li><i class="fa-brands fa-linkedin"></i> LinkedIn</li>
-</ul>
-
 <style>
  
   *:not(i):not(.fa):not(.fab):not(.fas) {
