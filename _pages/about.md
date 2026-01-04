@@ -95,34 +95,4 @@ My goal is to contribute to the advancement of **rehabilitation medicine** in Ba
     display: inline-block;
   }
 
-  
-  body, .wrapper, .sidebar, .masthead {
-    background-color: transparent !important;
-  }
-
- 
-  h2 {
-    margin-top: 2em;
-    border-bottom: 1px solid #eee;
-    padding-bottom: 10px;
-  }
-
-  p, li {
-    line-height: 1.8;
-  }
-
-  hr {
-    margin: 30px 0;
-    border: 0;
-    border-top: 1px solid #ddd;
-  }
-
-  a {
-    color: #007bff;
-    text-decoration: none;
-  }
-
-  a:hover {
-    text-decoration: underline;
-  }
 </style>
