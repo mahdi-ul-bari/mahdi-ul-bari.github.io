@@ -15,7 +15,6 @@ I am driven by curiosity, creativity, and compassion in integrating clinical ins
 - **Research & Data Analysis:** Study design, data collection, R, SPSS  
 - **Academic Writing & Publication:** Manuscript preparation, journal submission, reference formatting
   
----
 
 ## **Technical & Creative Skills**
 - **Programming & Analysis:** R, SPSS, Excel
