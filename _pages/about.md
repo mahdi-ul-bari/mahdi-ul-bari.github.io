@@ -32,7 +32,7 @@ Beside by clinical responsibilities, I have a keen interest for data analytics i
 
   <div class="career-card" style="flex: 1; min-width: 180px; background: #e3f2fd; padding: 20px; border-radius: 8px; border: 1px solid #bbdefb; border-top: 5px solid #d32f2f;">
     <h4 style="margin: 0; color: #d32f2f; font-size: 1.2em;">Currently Appointed </h4>
-    <img src="_pages/CRP_Logo.jpg" alt="Profile Photo" style="width: 150px; height: 100px; cover; margin-bottom: 4px;">
+    <img src="_pages/CRP_Logo.jpg" alt="CRP Logo" style="width: 100%; height: auto; max-height: 100px; object-fit: contain; margin-top: 10px; margin-bottom: 4px;">
     <p style="font-size: 0.95em; font-weight: bold; color: #01579b;"><strong> Musculoskeletal Unit</strong> </p>
   </div>
   
