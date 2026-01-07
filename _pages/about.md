@@ -88,7 +88,30 @@ graph TD
     style Node4 fill:#e1f5fe,stroke:#01579b,stroke-width:2px,color:#01579b
 ```
 ---
+<div style="display: flex; flex-wrap: wrap; gap: 15px; font-family: 'Merriweather', serif; margin: 20px 0;">
+  
+  <div class="career-card" style="flex: 1; min-width: 180px; background: #f8f9fa; padding: 20px; border-radius: 8px; border-top: 5px solid #01579b; border: 1px solid #eee; border-top: 5px solid #01579b;">
+    <h4 style="margin: 0; color: #01579b; font-size: 1.2em;">2017</h4>
+    <p style="font-size: 0.95em; color: #555;">Completed HSC</p>
+  </div>
 
+  <div class="career-card" style="flex: 1; min-width: 180px; background: #f8f9fa; padding: 20px; border-radius: 8px; border-top: 5px solid #01579b; border: 1px solid #eee; border-top: 5px solid #01579b;">
+    <h4 style="margin: 0; color: #01579b; font-size: 1.2em;">2018</h4>
+    <p style="font-size: 0.95em; color: #555;">Admitted to BHPI</p>
+  </div>
+
+  <div class="career-card" style="flex: 1; min-width: 180px; background: #f8f9fa; padding: 20px; border-radius: 8px; border-top: 5px solid #01579b; border: 1px solid #eee; border-top: 5px solid #01579b;">
+    <h4 style="margin: 0; color: #01579b; font-size: 1.2em;">2025</h4>
+    <p style="font-size: 0.95em; color: #555;">Completed Graduation</p>
+  </div>
+
+  <div class="career-card" style="flex: 1; min-width: 180px; background: #e3f2fd; padding: 20px; border-radius: 8px; border: 1px solid #bbdefb; border-top: 5px solid #d32f2f;">
+    <h4 style="margin: 0; color: #d32f2f; font-size: 1.2em;">Current</h4>
+    <p style="font-size: 0.95em; font-weight: bold; color: #01579b;">Musculoskeletal Unit, CRP</p>
+  </div>
+  
+</div>
+---
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.4.2/css/all.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">
