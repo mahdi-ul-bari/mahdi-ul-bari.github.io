@@ -7,7 +7,7 @@ main:
     url: "https://raw.githubusercontent.com/mahdi-ul-bari/mahdi-ul-bari.github.io/1st-commit/files/Mahdi_Ul_Bari_Resume.pdf"
     
   - title: "Research Experience"
-    url: /research-experience.html/
+    url: /research-experience/
     
   # If you want the Guide back, use this (uncommenting and ensuring 2-space indent):
   # - title: "Guide"
