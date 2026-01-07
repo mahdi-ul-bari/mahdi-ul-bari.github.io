@@ -23,7 +23,7 @@ for stopping by.
 
   <div class="career-card" style="flex: 1; min-width: 180px; background: #f8f9fa; padding: 20px; border-radius: 8px; border-top: 5px solid #01579b; border: 1px solid #eee; border-top: 5px solid #01579b;">
     <h4 style="margin: 0; color: #01579b; font-size: 1.2em;">2018</h4>
-    <p style="font-size: 0.95em; color: #555;">Got admitted to <strong> Bangladesh Health Professions Institute (BHPI)</strong>, Faculty of Medicine, <strong> University of Dhaka. </strong> <br> Major <strong> Physiotherapy </strong> </p>
+    <p style="font-size: 0.95em; color: #555;">Got admitted to <strong> Bangladesh Health Professions Institute (BHPI)</strong>, Faculty of Medicine, <strong> University of Dhaka. </strong> <br> Major: <strong> Physiotherapy </strong> </p>
   </div>
 
   <div class="career-card" style="flex: 1; min-width: 180px; background: #f8f9fa; padding: 20px; border-radius: 8px; border-top: 5px solid #01579b; border: 1px solid #eee; border-top: 5px solid #01579b;">
