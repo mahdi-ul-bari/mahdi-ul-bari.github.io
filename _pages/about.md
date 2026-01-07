@@ -68,6 +68,27 @@ I believe that healthcare excellence stems from compassion backed by science.
 My goal is to contribute to the advancement of **rehabilitation medicine** in Bangladesh and beyond through **research, education, and clinical innovation**.
 
 ---
+graph TD
+    %% Node Definitions
+    Node1[2017: Completed HSC]
+    Node2[2018: Admitted to BHPI]
+    Node3[2025: Completed Graduation]
+    Node4[Current: Appointed in Musculoskeletal Unit at CRP]
+
+    %% Connections
+    Node1 --> Node2
+    Node2 --> Node3
+    Node3 --> Node4
+
+    %% Styling for Professional Look
+    style Node1 fill:#f4f4f4,stroke:#333,stroke-width:1px
+    style Node2 fill:#f4f4f4,stroke:#333,stroke-width:1px
+    style Node3 fill:#f4f4f4,stroke:#333,stroke-width:1px
+    style Node4 fill:#e1f5fe,stroke:#01579b,stroke-width:2px,color:#01579b
+
+---
+
+
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.4.2/css/all.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
