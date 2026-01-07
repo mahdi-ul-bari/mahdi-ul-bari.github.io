@@ -7,10 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am Mahdi Ul Bari,  **Physiotherapist and Researcher**. I am currently appointed as **Clinical Physiotherapist** at the **Musculoskeletal Unit** in **Centre for the Rehabilitation of the Paralysed (CRP)**. I am committed
-to provide evidence based physiotherapy to make sure that care is truly centered around what patients impairments. I am greatly motivated in clinical work with analytical thinking to find better solutions. 
-Beside by clinical responsibilities, I have a keen interest for data analytics in medical research. All my credentials and skills are embedded in this portfolio. Thank you for stopping by my portfolio.
-
+<table style="width: 100%; border-collapse: collapse; border: none;">
+  <tr>
+    <td style="padding: 20px; text-align: justify; line-height: 1.6; color: #333; font-family: sans-serif; background-color: #f9f9f9; border: 1px solid #ddd; border-radius: 8px;">
+      Hello, I am Mahdi Ul Bari, <strong>Physiotherapist and Researcher</strong>. 
+      I am currently appointed as <strong>Clinical Physiotherapist</strong> at the 
+      <strong>Musculoskeletal Unit</strong> in <strong>Centre for the Rehabilitation of the Paralysed (CRP)</strong>. 
+      I am committed to provide evidence based physiotherapy to make sure that care is truly centered around what 
+      patients impairments. I am greatly motivated in clinical work with analytical thinking to find better solutions. 
+      Beside by clinical responsibilities, I have a keen interest for data analytics in medical research. 
+      All my credentials and skills are embedded in this portfolio. Thank you for stopping by my portfolio.
+    </td>
+  </tr>
+</table>
 ---
 ## **Career Timeline**
 <div style="display: flex; flex-wrap: wrap; gap: 15px; font-family: 'Merriweather', serif; margin: 20px 0;">
@@ -33,7 +42,7 @@ Beside by clinical responsibilities, I have a keen interest for data analytics i
   <div class="career-card" style="flex: 1; min-width: 180px; background: #e3f2fd; padding: 20px; border-radius: 8px; border: 1px solid #bbdefb; border-top: 5px solid #d32f2f;">
     <h4 style="margin: 0; color: #d32f2f; font-size: 1.2em;">Currently Appointed </h4>
     <img src="_pages/CRP_Logo.jpg" alt="CRP Logo" style="width: 100%; height: auto; max-height: 100px; object-fit: contain; margin-top: 10px; margin-bottom: 4px;">
-   <p style="margin: 10px 0; font-size: 0.95em; font-weight: bold; color: #01579b;">
+   <p style="margin: 10px 0; font-size: 0.95em; font-weight: bold; color: #01579b;text-align: center;">
         Musculoskeletal Unit, <strong>Deartment of Physiotherapy</strong>
     </p>
   </div>
