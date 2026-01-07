@@ -68,6 +68,7 @@ I believe that healthcare excellence stems from compassion backed by science.
 My goal is to contribute to the advancement of **rehabilitation medicine** in Bangladesh and beyond through **research, education, and clinical innovation**.
 
 ---
+```mermaid
 graph TD
     %% Node Definitions
     Node1[2017: Completed HSC]
