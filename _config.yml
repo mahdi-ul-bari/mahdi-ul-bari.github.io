@@ -273,7 +273,7 @@ defaults:
       # _Reaearch Experience
   - scope:
       path: ""
-      type: Research Experience
+      type: Research-Experience
     values:
       layout: single
       author_profile: true
