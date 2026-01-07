@@ -18,7 +18,7 @@ for stopping by.
   
   <div class="career-card" style="flex: 1; min-width: 180px; background: #f8f9fa; padding: 20px; border-radius: 8px; border-top: 5px solid #01579b; border: 1px solid #eee; border-top: 5px solid #01579b;">
     <h4 style="margin: 0; color: #01579b; font-size: 1.2em;">2017</h4>
-    <p style="font-size: 0.95em; color: #555;">Completed HSC from <strong> Gurudayal Govt. College. </strong> <br> Major: <strong> Science </strong> </p>
+    <p style="font-size: 0.95em; color: #555;">Completed Higher Secondary Cirtificate Exam from <strong> Gurudayal Govt. College. </strong> <br> Major: <strong> Science </strong> </p>
   </div>
 
   <div class="career-card" style="flex: 1; min-width: 180px; background: #f8f9fa; padding: 20px; border-radius: 8px; border-top: 5px solid #01579b; border: 1px solid #eee; border-top: 5px solid #01579b;">
