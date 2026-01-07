@@ -13,25 +13,4 @@ main:
   # - title: "Guide"
   
   #   url: /markdown/
-<style>
- 
-  *:not(i):not(.fa):not(.fab):not(.fas) {
-    font-family: 'Merriweather', serif !important;
-  }
-.sidebar i, 
-.author__urls i,
-.contact-list i {
-  width: 1.5rem !important; 
-  text-align: center;      
-  margin-right: 1.5rem;    
-  display: inline-block;
-}
-  
-  .fa-solid, .fa-brands, .fas, .fab, .fa {
-    font-family: "Font Awesome 6 Free", "Font Awesome 6 Brands" !important;
-    font-weight: 900;
-    width: 25px; 
-    display: inline-block;
-  }
 
-</style>
