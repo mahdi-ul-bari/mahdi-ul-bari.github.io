@@ -270,10 +270,10 @@ defaults:
       share: true
       comments: true
 
-      # _projects
+      # _Reaearch Experience
   - scope:
       path: ""
-      type: projects
+      type: research experience
     values:
       layout: single
       author_profile: true
