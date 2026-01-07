@@ -6,10 +6,40 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a **Physiotherapist and Research Associate** passionate about evidence-based rehabilitation, functional recovery, and patient-centered care.  
-Currently serving at **CRP, Savar**, within the *Musculoskeletal Unit* while engaging in **research on circuit training and stroke rehabilitation**.  
-I am driven by curiosity, creativity, and compassion in integrating clinical insight with analytical thinking.
+
+Hello, I am Mahdi Ul Bari,  **Physiotherapist and Researcher**. I am currently appointed as **Clinical Physiotherapist** at the **Musculoskeletal Unit** in **Centre for the Rehabilitation of the Paralysed (CRP)**. I am committed
+to provide evidence based physiotherapy to make sure that care is truly centered around what patients impairments. I am greatly motivated in clinical work with analytical thinking to find better solutions. 
+Beside by clinical responsibilities, I have a keen interest for data analytics in medical research. Thank you for stopping by my portfolio. All my credentials and skills are embedded in this portfolio. Thank you
+for stopping by.
+
 ---
+## **Career Timeline**
+<div style="display: flex; flex-wrap: wrap; gap: 15px; font-family: 'Merriweather', serif; margin: 20px 0;">
+  
+  <div class="career-card" style="flex: 1; min-width: 180px; background: #f8f9fa; padding: 20px; border-radius: 8px; border-top: 5px solid #01579b; border: 1px solid #eee; border-top: 5px solid #01579b;">
+    <h4 style="margin: 0; color: #01579b; font-size: 1.2em;">2017</h4>
+    <p style="font-size: 0.95em; color: #555;">Completed HSC from <strong> Gurudayal Govt. College. </strong> </p>
+  </div>
+
+  <div class="career-card" style="flex: 1; min-width: 180px; background: #f8f9fa; padding: 20px; border-radius: 8px; border-top: 5px solid #01579b; border: 1px solid #eee; border-top: 5px solid #01579b;">
+    <h4 style="margin: 0; color: #01579b; font-size: 1.2em;">2018</h4>
+    <p style="font-size: 0.95em; color: #555;">Got admitted to <strong> Bangladesh Health Professions Institute (BHPI)</strong>, under Faculty of Medicine, <strong> University of Dhaka. </strong> <br> Major <strong> Physiotherapy </strong> </p>
+  </div>
+
+  <div class="career-card" style="flex: 1; min-width: 180px; background: #f8f9fa; padding: 20px; border-radius: 8px; border-top: 5px solid #01579b; border: 1px solid #eee; border-top: 5px solid #01579b;">
+    <h4 style="margin: 0; color: #01579b; font-size: 1.2em;">2025</h4>
+    <p style="font-size: 0.95em; color: #555;">Completed Graduation from BHPI</p>
+  </div>
+
+  <div class="career-card" style="flex: 1; min-width: 180px; background: #e3f2fd; padding: 20px; border-radius: 8px; border: 1px solid #bbdefb; border-top: 5px solid #d32f2f;">
+    <h4 style="margin: 0; color: #d32f2f; font-size: 1.2em;">Currently Appointed </h4>
+    <p style="font-size: 0.95em; font-weight: bold; color: #01579b;">Musculoskeletal Unit, <strong>CRP</strong> </p>
+  </div>
+  
+</div>
+
+---
+
 ## **Core Expertise**
 - **Physiotherapy & Rehabilitation:** Musculoskeletal, Neurological, Pediatric, and Spinal Cord Injury management  
 - **Research & Data Analysis:** Study design, data collection, R, SPSS  
@@ -67,51 +97,6 @@ _March 2024 – February 2025_
 I believe that healthcare excellence stems from compassion backed by science.  
 My goal is to contribute to the advancement of **rehabilitation medicine** in Bangladesh and beyond through **research, education, and clinical innovation**.
 
----
-```mermaid
-graph TD
-    %% Node Definitions
-    Node1[2017: Completed HSC]
-    Node2[2018: Admitted to BHPI]
-    Node3[2025: Completed Graduation]
-    Node4[Current: Appointed in Musculoskeletal Unit at CRP]
-
-    %% Connections
-    Node1 --> Node2
-    Node2 --> Node3
-    Node3 --> Node4
-
-    %% Styling for Professional Look
-    style Node1 fill:#e1f5fe,stroke:#333,stroke-width:1px
-    style Node2 fill:#e1f5fe,stroke:#333,stroke-width:1px
-    style Node3 fill:#e1f5fe,stroke:#333,stroke-width:1px
-    style Node4 fill:#e1f5fe,stroke:#01579b,stroke-width:2px,color:#01579b
-```
----
-## **Career Timeline**
-<div style="display: flex; flex-wrap: wrap; gap: 15px; font-family: 'Merriweather', serif; margin: 20px 0;">
-  
-  <div class="career-card" style="flex: 1; min-width: 180px; background: #f8f9fa; padding: 20px; border-radius: 8px; border-top: 5px solid #01579b; border: 1px solid #eee; border-top: 5px solid #01579b;">
-    <h4 style="margin: 0; color: #01579b; font-size: 1.2em;">2017</h4>
-    <p style="font-size: 0.95em; color: #555;">Completed HSC</p>
-  </div>
-
-  <div class="career-card" style="flex: 1; min-width: 180px; background: #f8f9fa; padding: 20px; border-radius: 8px; border-top: 5px solid #01579b; border: 1px solid #eee; border-top: 5px solid #01579b;">
-    <h4 style="margin: 0; color: #01579b; font-size: 1.2em;">2018</h4>
-    <p style="font-size: 0.95em; color: #555;">Admitted to BHPI</p>
-  </div>
-
-  <div class="career-card" style="flex: 1; min-width: 180px; background: #f8f9fa; padding: 20px; border-radius: 8px; border-top: 5px solid #01579b; border: 1px solid #eee; border-top: 5px solid #01579b;">
-    <h4 style="margin: 0; color: #01579b; font-size: 1.2em;">2025</h4>
-    <p style="font-size: 0.95em; color: #555;">Completed Graduation</p>
-  </div>
-
-  <div class="career-card" style="flex: 1; min-width: 180px; background: #e3f2fd; padding: 20px; border-radius: 8px; border: 1px solid #bbdefb; border-top: 5px solid #d32f2f;">
-    <h4 style="margin: 0; color: #d32f2f; font-size: 1.2em;">Current</h4>
-    <p style="font-size: 0.95em; font-weight: bold; color: #01579b;">Musculoskeletal Unit, CRP</p>
-  </div>
-  
-</div>
 
 ---
 
