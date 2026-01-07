@@ -88,7 +88,7 @@ graph TD
     style Node4 fill:#e1f5fe,stroke:#01579b,stroke-width:2px,color:#01579b
 ```
 ---
-##Career Timeline
+## **Career Timeline**
 <div style="display: flex; flex-wrap: wrap; gap: 15px; font-family: 'Merriweather', serif; margin: 20px 0;">
   
   <div class="career-card" style="flex: 1; min-width: 180px; background: #f8f9fa; padding: 20px; border-radius: 8px; border-top: 5px solid #01579b; border: 1px solid #eee; border-top: 5px solid #01579b;">
