@@ -9,8 +9,7 @@ redirect_from:
 
 Hello, I am Mahdi Ul Bari,  **Physiotherapist and Researcher**. I am currently appointed as **Clinical Physiotherapist** at the **Musculoskeletal Unit** in **Centre for the Rehabilitation of the Paralysed (CRP)**. I am committed
 to provide evidence based physiotherapy to make sure that care is truly centered around what patients impairments. I am greatly motivated in clinical work with analytical thinking to find better solutions. 
-Beside by clinical responsibilities, I have a keen interest for data analytics in medical research. Thank you for stopping by my portfolio. All my credentials and skills are embedded in this portfolio. Thank you
-for stopping by.
+Beside by clinical responsibilities, I have a keen interest for data analytics in medical research. All my credentials and skills are embedded in this portfolio. Thank you for stopping by my portfolio.
 
 ---
 ## **Career Timeline**
@@ -18,21 +17,22 @@ for stopping by.
   
   <div class="career-card" style="flex: 1; min-width: 180px; background: #f8f9fa; padding: 20px; border-radius: 8px; border-top: 5px solid #01579b; border: 1px solid #eee; border-top: 5px solid #01579b;">
     <h4 style="margin: 0; color: #01579b; font-size: 1.2em;">2017</h4>
-    <p style="font-size: 0.95em; color: #555;">Completed Higher Secondary Cirtificate Exam from <strong> Gurudayal Govt. College. </strong> <br> Major: <strong> Science </strong> </p>
+    <p style="font-size: 0.95em; color: #555;"> Higher Secondary Cirtificate Exam <strong> Gurudayal Govt. College. </strong> <br> Major: <strong> Science </strong> </p>
   </div>
 
   <div class="career-card" style="flex: 1; min-width: 180px; background: #f8f9fa; padding: 20px; border-radius: 8px; border-top: 5px solid #01579b; border: 1px solid #eee; border-top: 5px solid #01579b;">
     <h4 style="margin: 0; color: #01579b; font-size: 1.2em;">2018</h4>
-    <p style="font-size: 0.95em; color: #555;">Got admitted to <strong> Bangladesh Health Professions Institute (BHPI)</strong>, Faculty of Medicine, <strong> University of Dhaka. </strong> <br> Major: <strong> Physiotherapy </strong> </p>
+    <p style="font-size: 0.95em; color: #555;">Bachelor of Science <strong> Bangladesh Health Professions Institute (BHPI)</strong>, Faculty of Medicine, <strong> University of Dhaka. </strong> <br> Major: <strong> Physiotherapy </strong> </p>
   </div>
 
   <div class="career-card" style="flex: 1; min-width: 180px; background: #f8f9fa; padding: 20px; border-radius: 8px; border-top: 5px solid #01579b; border: 1px solid #eee; border-top: 5px solid #01579b;">
     <h4 style="margin: 0; color: #01579b; font-size: 1.2em;">2025</h4>
-    <p style="font-size: 0.95em; color: #555;">Completed Graduation from BHPI</p>
+    <p style="font-size: 0.95em; color: #555;">Completed Graduation in Physiotherapy</p>
   </div>
 
   <div class="career-card" style="flex: 1; min-width: 180px; background: #e3f2fd; padding: 20px; border-radius: 8px; border: 1px solid #bbdefb; border-top: 5px solid #d32f2f;">
     <h4 style="margin: 0; color: #d32f2f; font-size: 1.2em;">Currently Appointed </h4>
+    <img src="path/to/your/photo.jpg" alt="Profile Photo" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; margin-bottom: 10px;">
     <p style="font-size: 0.95em; font-weight: bold; color: #01579b;">Musculoskeletal Unit, <strong>CRP</strong> </p>
   </div>
   
