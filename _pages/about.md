@@ -139,6 +139,6 @@ My goal is to contribute to the advancement of **rehabilitation medicine** in Ba
     display: inline-block;
   }
 .archive, .page {
-    padding-left: 40px !important;
+    padding-left: 50px !important;
   }
 </style>
