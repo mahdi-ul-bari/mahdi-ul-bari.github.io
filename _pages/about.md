@@ -9,7 +9,7 @@ redirect_from:
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
   <tr>
-    <td style="padding: 20px; text-align: justify; line-height: 1.6; color: #333; font-family: sans-serif; background-color: #f9f9f9; border: 1px solid #ddd; border-radius: 8px;">
+    <td style="padding: 20px; text-align: justify; line-height: 1.6; font-family: sans-serif; background-color: #f9f9f9; border: 1px solid #ddd; border-radius: 8px;">
       Hello, I am Mahdi Ul Bari, <strong>Physiotherapist and Researcher</strong>. 
       I am currently appointed as <strong>Clinical Physiotherapist</strong> at the 
       <strong>Musculoskeletal Unit</strong> in <strong>Centre for the Rehabilitation of the Paralysed (CRP)</strong>. 
