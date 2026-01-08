@@ -21,7 +21,7 @@ redirect_from:
   </tr>
 </table>
 
----
+
 
 ## **Career Timeline**
 <div style="display: flex; flex-wrap: wrap; gap: 15px; font-family: 'Merriweather', serif; margin: 20px 0;">
@@ -51,7 +51,7 @@ redirect_from:
   
 </div>
 
----
+
 
 ## **Core Expertise**
 - **Physiotherapy & Rehabilitation:** Musculoskeletal, Neurological, Pediatric, and Spinal Cord Injury management  
@@ -65,7 +65,7 @@ redirect_from:
 - **Design & Visualization:** Adobe Illustrator, Canva
 - **Languages:** Bangla (Native), English (Professional)
 
----
+
 
 ## **Professional Experience**
 **Clinical Physiotherapist**  
@@ -81,7 +81,6 @@ _March 2024 – February 2025_
 - Completed rotations in Musculoskeletal, Neurology, Pediatric, and SCI Units  
 - Final Evaluation: **Excellent**
 
----
 
 ## **Research & Publications**
 1. **Sharmin, F., Hossain, M.F., Bari, M.U. et al.** (2025)  
@@ -92,23 +91,16 @@ _March 2024 – February 2025_
    *Effectiveness of task-oriented circuit training on the motor performance of ischemic stroke patients: a study protocol for RCT.*  
    _BMJ Open Sport & Exercise Medicine_, 11(2).  
    [DOI: 10.1136/bmjsem-2025-002604](https://doi.org/10.1136/bmjsem-2025-002604)
-   
----
+
 
 ## 🏅 **Volunteer Experience**
 - **Sports Physiotherapist**, *Mymensingh 25K Marathon 2024*  
 - **Volunteer Physiotherapist**, *CRP Musculoskeletal Department (Jan–Feb 2024)*
 
----
-
 ## 🏅 **Trainings**
 - *Spinal Pain Management* — 120 Hours, Prof. Dr Md Anwar Hossain, CRP  
 - *Positioning & Early Mobilization after Burn Injury* — Tarek Hussain & Mercy Ama Agtuahene (UK EMT)
-    
----
 
-I believe that healthcare excellence stems from compassion backed by science.  
-My goal is to contribute to the advancement of **rehabilitation medicine** in Bangladesh and beyond through **research, education, and clinical innovation**.
 
 
 ---
