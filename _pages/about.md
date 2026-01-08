@@ -20,7 +20,9 @@ redirect_from:
     </td>
   </tr>
 </table>
+
 ---
+
 ## **Career Timeline**
 <div style="display: flex; flex-wrap: wrap; gap: 15px; font-family: 'Merriweather', serif; margin: 20px 0;">
   
