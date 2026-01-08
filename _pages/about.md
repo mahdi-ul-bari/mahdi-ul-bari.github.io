@@ -9,7 +9,7 @@ redirect_from:
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
   <tr>
-    <td style="padding: 20px; text-align: justify; line-height: 1.6; border: 1px solid #ddd; border-radius: 8px;">
+    <td style="padding: 20px; text-align: justify; line-height: 1.6; border: 2px solid #ddd; border-radius: 10px;">
       Hello, I am Mahdi Ul Bari, <strong>Physiotherapist and Researcher</strong>. 
       I am currently appointed as <strong>Clinical Physiotherapist</strong> at the 
       <strong>Musculoskeletal Unit</strong> in <strong>Centre for the Rehabilitation of the Paralysed (CRP)</strong>. 
@@ -126,9 +126,9 @@ My goal is to contribute to the advancement of **rehabilitation medicine** in Ba
 .sidebar i, 
 .author__urls i,
 .contact-list i {
-  width: 1.5rem !important; 
+  width: 0.5rem !important; 
   text-align: center;      
-  margin-right: 2rem;    
+  margin-right: 1rem;    
   display: inline-block;
 }
   
