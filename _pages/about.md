@@ -13,8 +13,8 @@ redirect_from:
       Hello, I am Mahdi Ul Bari, <strong>Physiotherapist and Researcher</strong>. 
       I am currently appointed as <strong>Clinical Physiotherapist</strong> at the 
       <strong>Musculoskeletal Unit</strong> in <strong>Centre for the Rehabilitation of the Paralysed (CRP)</strong>. 
-      I am committed to provide evidence based physiotherapy to make sure that care is truly centered around what 
-      patients impairments. I am greatly motivated in clinical work with analytical thinking to find better solutions. 
+      I am committed to provide evidence based physiotherapy and care that is truly centered around the 
+      patient's impairments. I am greatly motivated in clinical work with analytical thinking to find better solutions. 
       Beside by clinical responsibilities, I have a keen interest for data analytics in medical research. 
       All my credentials and skills are embedded in this portfolio. Thank you for stopping by my portfolio.
     </td>
