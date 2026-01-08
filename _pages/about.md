@@ -126,9 +126,9 @@ My goal is to contribute to the advancement of **rehabilitation medicine** in Ba
 .sidebar i, 
 .author__urls i,
 .contact-list i {
-  width: 1.5rem !important; 
+  width: 4rem !important; 
   text-align: center;      
-  margin-right: 3rem;    
+  margin-right: 5rem;    
   display: inline-block;
 }
   
