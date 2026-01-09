@@ -100,7 +100,7 @@ _March 2024 – February 2025_
 ## 🏅 **Trainings**
 - *Spinal Pain Management* — 120 Hours, Prof. Dr Md Anwar Hossain, CRP  
 - *Positioning & Early Mobilization after Burn Injury* — Tarek Hussain & Mercy Ama Agtuahene (UK EMT)
-<br>
+<br><br>
 <p>
     <img 
       src="_pages/mahdi.jpg" 
@@ -108,8 +108,6 @@ _March 2024 – February 2025_
 </p>
 
 
-
----
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.4.2/css/all.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">
