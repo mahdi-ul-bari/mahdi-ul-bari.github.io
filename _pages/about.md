@@ -1,4 +1,3 @@
-
 ---
 permalink: /
 title: "Welcome to My Portfolio"
