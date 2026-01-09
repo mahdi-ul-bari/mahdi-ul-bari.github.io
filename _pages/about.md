@@ -1,3 +1,4 @@
+
 ---
 permalink: /
 title: "Welcome to My Portfolio"
@@ -104,7 +105,7 @@ _March 2024 – February 2025_
 <tr>
   <td style="border: 0; padding: 0 0 10px 0; background: none;">
     <img 
-      src="mahdi.jpg" 
+      src="_pages/mahdi.jpg" 
       alt="Closing Image" 
       style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; display: block; border: none; outline: none;"
     >
