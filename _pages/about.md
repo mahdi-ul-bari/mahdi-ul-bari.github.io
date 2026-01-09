@@ -102,14 +102,15 @@ _March 2024 – February 2025_
 - *Positioning & Early Mobilization after Burn Injury* — Tarek Hussain & Mercy Ama Agtuahene (UK EMT)
 
 <tr>
-  <td style="border: none; padding-bottom: 10px; text-align: center;">
+  <td style="border: 0; padding: 0 0 10px 0; background: none;">
     <img 
       src="mahdi.jpg" 
-      alt="Mahdi's Profile Image" 
-      style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; border: 2px solid #333; display: block; margin: 0 auto;"
+      alt="Closing Image" 
+      style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; display: block; border: none; outline: none;"
     >
   </td>
 </tr>
+
 
 
 ---
