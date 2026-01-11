@@ -50,7 +50,7 @@ redirect_from:
     <h4 style="margin: 0; color: #d32f2f; font-size: 1.2em;">Currently Appointed </h4>
     <img src="_pages/CRP_Logo.jpg" alt="CRP Logo" style="width: 100%; height: auto; max-height: 100px; object-fit: contain; margin-top: 10px; margin-bottom: 4px;">
    <p style="margin: 10px 0; font-size: 0.95em; font-weight: bold; color: #01579b;text-align: center;">
-        Musculoskeletal Unit, <strong>Deartment of Physiotherapy</strong>
+        Musculoskeletal Unit <br><strong>Deartment of Physiotherapy</strong>
     </p>
   </div>
   
