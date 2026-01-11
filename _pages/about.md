@@ -66,7 +66,7 @@ redirect_from:
 <table style="border-collapse: collapse; border: none; font-family: 'Merriweather', serif; width: 100%; max-width: 1000px; color: #FFFFFF;">
     <tr style="border: none;">
       <td colspan="2" align="center" style="border: none; padding-bottom: 15px;">
-  <span style="color: #FFFFFF; font-family: 'Merriweather', Georgia, serif; font-size: 24pt; font-weight: bold;">
+  <span style="color: #FFFFFF; font-family: 'Merriweather', Georgia, serif; font-size: 16pt; font-weight: bold;">
     Skill Levels
   </span>
 </td>
