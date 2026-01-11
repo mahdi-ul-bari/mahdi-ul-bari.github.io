@@ -11,7 +11,7 @@ redirect_from:
     <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=35&pause=200&color=007ACC&center=true&vCenter=true&width=500&lines=Researcher;Physiotherapist;R+Programmer;GFX+Enthusiast" alt="Interests"/>
   </a>
 </h1>
-<br> 
+
 <table style="width: 100%; border-collapse: collapse; border: none;">
   <tr>
     <td style="padding: 20px; text-align: justify; line-height: 1.6; border: 2px solid #ddd; border-radius: 10px;font-size: 18px;">
