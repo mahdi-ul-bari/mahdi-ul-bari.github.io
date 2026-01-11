@@ -96,7 +96,7 @@ redirect_from:
     <td style="border:none; padding:2px 8px;">█ █ █ █ █ █ ░ ░ ░ ░</td>
   </tr>
 </table>
-
+</table>
 ## **Professional Experience**
 **Clinical Physiotherapist**  
 *Centre for the Rehabilitation of the Paralysed (CRP), Savar*  
