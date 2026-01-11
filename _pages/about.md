@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to My Portfolio"
+title: 
 author_profile: true
 redirect_from: 
   - /about/
