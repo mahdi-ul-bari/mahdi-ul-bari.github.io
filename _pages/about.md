@@ -8,7 +8,7 @@ redirect_from:
 ---
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=35&pause=200&color=007ACC&center=true&vCenter=true&width=500&lines=Researcher;Physiotherapist;R+Programmer;GFX+Enthusiast" alt="Interests"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=58&pause=200&color=7BD389&center=true&vCenter=true&width=500&lines=Researcher;Physiotherapist;R+Programmer;GFX+Enthusiast" alt="Interests"/>
   </a>
 </h1>
 
