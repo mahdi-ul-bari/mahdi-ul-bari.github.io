@@ -65,9 +65,11 @@ redirect_from:
 <div style="font-size: 14pt; color: #FFFFFF; background-color: #333333; padding: 20px;">
 <table style="border-collapse: collapse; border: none; font-family: 'Merriweather', serif; width: 100%; max-width: 1000px; color: #FFFFFF;">
     <tr style="border: none;">
-      <td colspan="2" align="center" style="border: none; padding-bottom: 10px;">
-        <h3><font color="#FFFFFF" face="Merriweather, Georgia, serif">Skill Levels</font></h3>
-      </td>
+      <td colspan="2" align="center" style="border: none; padding-bottom: 15px;">
+  <span style="color: #FFFFFF; font-family: 'Merriweather', Georgia, serif; font-size: 24pt; font-weight: bold;">
+    Skill Levels
+  </span>
+</td>
     </tr>
     <tr style="border: none;">
       <td align="center" style="width: 100%; border: none; padding: 5px; font-family: 'Merriweather', Georgia, serif;">
