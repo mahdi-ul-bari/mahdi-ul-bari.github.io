@@ -97,7 +97,9 @@ redirect_from:
             <td style="border:none; padding:2px 8px;">█ █ █ █ █ █ ░ ░ ░ ░</td>
           </tr>
         </table>
-      </td> </tr> </table>
+      </td>
+    </tr>
+</table>
 </div>
 
 ## **Professional Experience**
