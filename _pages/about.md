@@ -62,16 +62,16 @@ redirect_from:
   
 </div>
 
-<div style="font-size: 14pt;">
-<table style="border-collapse: collapse; border: none; font-family: 'Merriweather', serif; width: 100%; max-width: 1000px;">
+<div style="font-size: 14pt; color: #FFFFFF; background-color: #333333; padding: 20px;">
+<table style="border-collapse: collapse; border: none; font-family: 'Merriweather', serif; width: 100%; max-width: 1000px; color: #FFFFFF;">
     <tr style="border: none;">
       <td colspan="2" align="center" style="border: none; padding-bottom: 10px;">
-        <h3><font color="#007ACC" face="Merriweather, Georgia, serif">Skill Levels</font></h3>
+        <h3><font color="#FFFFFF" face="Merriweather, Georgia, serif">Skill Levels</font></h3>
       </td>
     </tr>
     <tr style="border: none;">
       <td align="center" style="width: 100%; border: none; padding: 5px; font-family: 'Merriweather', Georgia, serif;">
-        <table style="border:none; border-collapse:collapse; font-family:'Merriweather', Georgia, serif; font-size: 14pt;">
+        <table style="border:none; border-collapse:collapse; font-family:'Merriweather', Georgia, serif; font-size: 14pt; color: #FFFFFF;">
           <tr>
             <td style="border:none; padding:2px 8px; white-space:nowrap;">R Language</td>
             <td style="border:none; padding:2px 8px;">█ █ █ █ █ █ █ █ ░ ░</td>
