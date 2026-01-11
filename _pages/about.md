@@ -55,7 +55,7 @@ redirect_from:
   <div class="career-card" style="flex: 1; min-width: 180px; background: #171123; padding: 20px; border-radius: 8px; border: 1px solid #171123; border-top: 5px solid #B75D69;">
     <h4 style="margin: 0; color: #B75D69; font-size: 1.2em;">Currently Appointed </h4>
     <img src="_pages/CRP_Logo.jpg" alt="CRP Logo" style="width: 100%; height: auto; max-height: 100px; object-fit: contain; margin-top: 10px; margin-bottom: 4px;">
-    <p style="margin: 10px 0; font-size: 1.5em; font-weight: bold; color: #FFFFFF;text-align: center;">
+    <p style="margin: 10px 0; font-size: 1.2em; font-weight: bold; color: #FFFFFF;text-align: center;">
         Musculoskeletal Unit <br><strong>Department of Physiotherapy</strong>
     </p>
   </div>
