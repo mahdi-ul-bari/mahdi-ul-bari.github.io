@@ -31,25 +31,25 @@ redirect_from:
 ## **Career Timeline**
 <div style="display: flex; flex-wrap: wrap; gap: 15px; font-family: 'Merriweather', serif; margin: 20px 0;">
   
-  <div class="career-card" style="flex: 1; min-width: 180px; background: #829399; padding: 20px; border-radius: 8px; border-top: 5px solid #01579b; border: 1px solid #eee; border-top: 5px solid #01579b;">
+  <div class="career-card" style="flex: 1; min-width: 180px; background: #171123; padding: 20px; border-radius: 8px; border-top: 5px solid #01579b; border: 1px solid #171123; border-top: 5px solid #C2EFEB;">
     <h4 style="margin: 0; color: #01579b; font-size: 1.2em;">2017</h4>
-    <p style="font-size: 0.65em; color: #000000;"> Higher Secondary Cirtificate Exam <strong> Gurudayal Govt. College. </strong> <br> Major: <strong> Science </strong> </p>
+    <p style="font-size: 0.65em; color: #FFFFFF;"> Higher Secondary Cirtificate Exam <strong> Gurudayal Govt. College. </strong> <br> Major: <strong> Science </strong> </p>
   </div>
 
-  <div class="career-card" style="flex: 1; min-width: 180px; background: #829399; padding: 20px; border-radius: 8px; border-top: 5px solid #01579b; border: 1px solid #eee; border-top: 5px solid #01579b;">
+  <div class="career-card" style="flex: 1; min-width: 180px; background: #171123; padding: 20px; border-radius: 8px; border-top: 5px solid #01579b; border: 1px solid #171123; border-top: 5px solid #C2EFEB;">
     <h4 style="margin: 0; color: #01579b; font-size: 1.2em;">2018</h4>
-    <p style="font-size: 0.65em; color: #000000;">Bachelor of Science <strong> Bangladesh Health Professions Institute (BHPI)</strong>, Faculty of Medicine, <strong> University of Dhaka. </strong> <br> Major: <strong> Physiotherapy </strong> </p>
+    <p style="font-size: 0.65em; color: #FFFFFF;">Bachelor of Science <strong> Bangladesh Health Professions Institute (BHPI)</strong>, Faculty of Medicine, <strong> University of Dhaka. </strong> <br> Major: <strong> Physiotherapy </strong> </p>
   </div>
 
-  <div class="career-card" style="flex: 1; min-width: 180px; background: #829399; padding: 20px; border-radius: 8px; border-top: 5px solid #01579b; border: 1px solid #eee; border-top: 5px solid #01579b;">
+  <div class="career-card" style="flex: 1; min-width: 180px; background: #171123; padding: 20px; border-radius: 8px; border-top: 5px solid #01579b; border: 1px solid #171123; border-top: 5px solid #C2EFEB;">
     <h4 style="margin: 0; color: #01579b; font-size: 1.2em;">2025</h4>
-    <p style="font-size: 0.65em; color: #000000;">Completed Graduation in Physiotherapy</p>
+    <p style="font-size: 0.65em; color: #FFFFFF;">Completed Graduation in Physiotherapy</p>
   </div>
 
-  <div class="career-card" style="flex: 1; min-width: 180px; background: #829399; padding: 20px; border-radius: 8px; border: 1px solid #bbdefb; border-top: 5px solid #d32f2f;">
+  <div class="career-card" style="flex: 1; min-width: 180px; background: #171123; padding: 20px; border-radius: 8px; border: 1px solid #171123; border-top: 5px solid #d32f2f;">
     <h4 style="margin: 0; color: #d32f2f; font-size: 1.2em;">Currently Appointed </h4>
     <img src="_pages/CRP_Logo.jpg" alt="CRP Logo" style="width: 100%; height: auto; max-height: 100px; object-fit: contain; margin-top: 10px; margin-bottom: 4px;">
-   <p style="margin: 10px 0; font-size: 0.85em; font-weight: bold; color: #000000;text-align: center;">
+   <p style="margin: 10px 0; font-size: 0.85em; font-weight: bold; color: #FFFFFF;text-align: center;">
         Musculoskeletal Unit <br><strong>Department of Physiotherapy</strong>
     </p>
   </div>
