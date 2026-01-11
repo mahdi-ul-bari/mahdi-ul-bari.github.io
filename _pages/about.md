@@ -32,17 +32,17 @@ redirect_from:
 <div style="display: flex; flex-wrap: wrap; gap: 15px; font-family: 'Merriweather', serif; margin: 20px 0;">
   
   <div class="career-card" style="flex: 1; min-width: 180px; background: #171123; padding: 20px; border-radius: 8px; border-top: 5px solid #01579b; border: 1px solid #171123; border-top: 5px solid #C2EFEB;">
-    <h4 style="margin: 0; color: #01579b; font-size: 1.2em;">2017</h4>
+    <h4 style="margin: 0; color: #C2EFEB; font-size: 1.2em;">2017</h4>
     <p style="font-size: 0.65em; color: #FFFFFF;"> Higher Secondary Cirtificate Exam <strong> Gurudayal Govt. College. </strong> <br> Major: <strong> Science </strong> </p>
   </div>
 
   <div class="career-card" style="flex: 1; min-width: 180px; background: #171123; padding: 20px; border-radius: 8px; border-top: 5px solid #01579b; border: 1px solid #171123; border-top: 5px solid #C2EFEB;">
-    <h4 style="margin: 0; color: #01579b; font-size: 1.2em;">2018</h4>
+    <h4 style="margin: 0; color: #C2EFEB; font-size: 1.2em;">2018</h4>
     <p style="font-size: 0.65em; color: #FFFFFF;">Bachelor of Science <strong> Bangladesh Health Professions Institute (BHPI)</strong>, Faculty of Medicine, <strong> University of Dhaka. </strong> <br> Major: <strong> Physiotherapy </strong> </p>
   </div>
 
   <div class="career-card" style="flex: 1; min-width: 180px; background: #171123; padding: 20px; border-radius: 8px; border-top: 5px solid #01579b; border: 1px solid #171123; border-top: 5px solid #C2EFEB;">
-    <h4 style="margin: 0; color: #01579b; font-size: 1.2em;">2025</h4>
+    <h4 style="margin: 0; color: #C2EFEB; font-size: 1.2em;">2025</h4>
     <p style="font-size: 0.65em; color: #FFFFFF;">Completed Graduation in Physiotherapy</p>
   </div>
 
