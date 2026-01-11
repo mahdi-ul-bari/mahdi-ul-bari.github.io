@@ -50,7 +50,7 @@ redirect_from:
     <p style="font-size: 0.85em; color: #FFFFFF;">Completed Graduation in Physiotherapy with one year internship at <strong>Centre for the Rehabilitation of the Paralysed (CRP)</strong></p>
   </div>
 
-  <div style="display: flex; align-items: center; justify-content: center;"><div style="width: 10px; height: 10px; border-top: 3px solid #d32f2f; border-right: 3px solid #d32f2f; transform: rotate(45deg);"></div></div>
+  <div style="display: flex; align-items: center; justify-content: center;"><div style="width: 10px; height: 10px; border-top: 3px solid #B75D69; border-right: 3px solid #B75D69; transform: rotate(45deg);"></div></div>
 
   <div class="career-card" style="flex: 1; min-width: 180px; background: #171123; padding: 20px; border-radius: 8px; border: 1px solid #171123; border-top: 5px solid #B75D69;">
     <h4 style="margin: 0; color: #B75D69; font-size: 1.2em;">Currently Appointed </h4>
