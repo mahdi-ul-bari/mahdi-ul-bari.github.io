@@ -97,7 +97,9 @@ redirect_from:
   </tr>
 </table>
 </table>
+
 ## **Professional Experience**
+
 **Clinical Physiotherapist**  
 *Centre for the Rehabilitation of the Paralysed (CRP), Savar*  
 _July 2025 – Present_  
