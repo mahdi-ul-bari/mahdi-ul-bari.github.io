@@ -62,21 +62,40 @@ redirect_from:
   
 </div>
 
-
-
-## **Core Expertise**
-- **Physiotherapy & Rehabilitation:** Musculoskeletal, Neurological, Pediatric, and Spinal Cord Injury management  
-- **Research & Data Analysis:** Study design, data collection, R, SPSS  
-- **Academic Writing & Publication:** Manuscript preparation, journal submission, reference formatting
-  
-
-## **Technical & Creative Skills**
-- **Programming & Analysis:** R, SPSS, Excel
-- **Documentation & Productivity:** Microsoft Word, PowerPoint
-- **Design & Visualization:** Adobe Illustrator, Canva
-- **Languages:** Bangla (Native), English (Professional)
-
-
+<table style="border-collapse: collapse; border: none; font-family: 'Merriweather', serif; width: 100%; max-width: 1000px;">
+    <tr style="border: none;">
+      <td colspan="2" align="center" style="border: none; padding-bottom: 10px;">
+        <h3><font color="#007ACC" face="Merriweather, Georgia, serif">Skill Levels</font></h3>
+      </td>
+    </tr>
+    <tr style="border: none;">
+      <td align="center" style="width: 50%; border: none; padding: 5px; border-right: 0.5px solid #333; font-family: 'Merriweather', Georgia, serif;">
+        <table style="border:none; border-collapse:collapse; font-family:'Merriweather', Georgia, serif;">
+  <tr>
+    <td style="border:none; padding:2px 8px; white-space:nowrap;">R Language</td>
+    <td style="border:none; padding:2px 8px;">█ █ █ █ █ █ █ █ ░ ░</td>
+  </tr>
+  <tr>
+    <td style="border:none; padding:2px 8px; white-space:nowrap;">SPSS</td>
+    <td style="border:none; padding:2px 8px;">█ █ █ █ █ █ █ █ ░ ░</td>
+  </tr>
+  <tr>
+    <td style="border:none; padding:2px 8px; white-space:nowrap;">Microsoft Excel</td>
+    <td style="border:none; padding:2px 8px;">█ █ █ █ █ █ █ ░ ░ ░</td>
+  </tr>
+  <tr>
+    <td style="border:none; padding:2px 8px; white-space:nowrap;">Microsoft Word</td>
+    <td style="border:none; padding:2px 8px;">█ █ █ █ █ █ █ █ █ █</td>
+  </tr>
+  <tr>
+    <td style="border:none; padding:2px 8px; white-space:nowrap;">PowerPoint</td>
+    <td style="border:none; padding:2px 8px;">█ █ █ █ █ █ █ █ █ ░</td>
+  </tr>
+  <tr>
+    <td style="border:none; padding:2px 8px; white-space:nowrap;">Adobe Illustrator</td>
+    <td style="border:none; padding:2px 8px;">█ █ █ █ █ █ ░ ░ ░ ░</td>
+  </tr>
+</table>
 
 ## **Professional Experience**
 **Clinical Physiotherapist**  
