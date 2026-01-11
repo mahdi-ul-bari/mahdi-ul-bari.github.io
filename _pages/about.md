@@ -61,6 +61,7 @@ redirect_from:
   </div>
   
 </div>
+
 <div>
 <table style="border-collapse: collapse; border: none; font-family: 'Merriweather', serif; width: 100%; max-width: 1000px;">
     <tr style="border: none;">
@@ -95,7 +96,6 @@ redirect_from:
     <td style="border:none; padding:2px 8px; white-space:nowrap;">Adobe Illustrator</td>
     <td style="border:none; padding:2px 8px;">█ █ █ █ █ █ ░ ░ ░ ░</td>
   </tr>
-</table>
 </table>
 </div>
 
