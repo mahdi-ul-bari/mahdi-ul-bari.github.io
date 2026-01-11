@@ -61,7 +61,7 @@ redirect_from:
   </div>
   
 </div>
-
+<div>
 <table style="border-collapse: collapse; border: none; font-family: 'Merriweather', serif; width: 100%; max-width: 1000px;">
     <tr style="border: none;">
       <td colspan="2" align="center" style="border: none; padding-bottom: 10px;">
@@ -97,6 +97,7 @@ redirect_from:
   </tr>
 </table>
 </table>
+</div>
 
 ## **Professional Experience**
 
