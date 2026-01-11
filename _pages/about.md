@@ -62,7 +62,7 @@ redirect_from:
   
 </div>
 
-<div>
+<div style="font-size: 14pt;">
 <table style="border-collapse: collapse; border: none; font-family: 'Merriweather', serif; width: 100%; max-width: 1000px;">
     <tr style="border: none;">
       <td colspan="2" align="center" style="border: none; padding-bottom: 10px;">
@@ -71,7 +71,7 @@ redirect_from:
     </tr>
     <tr style="border: none;">
       <td align="center" style="width: 100%; border: none; padding: 5px; font-family: 'Merriweather', Georgia, serif;">
-        <table style="border:none; border-collapse:collapse; font-family:'Merriweather', Georgia, serif;">
+        <table style="border:none; border-collapse:collapse; font-family:'Merriweather', Georgia, serif; font-size: 14pt;">
           <tr>
             <td style="border:none; padding:2px 8px; white-space:nowrap;">R Language</td>
             <td style="border:none; padding:2px 8px;">█ █ █ █ █ █ █ █ ░ ░</td>
