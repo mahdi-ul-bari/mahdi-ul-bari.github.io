@@ -62,18 +62,18 @@ redirect_from:
   
 </div>
 
-<div style="font-size: 14pt; color: #FFFFFF; background-color: #333333; padding: 20px;">
-<table style="border-collapse: collapse; border: none; font-family: 'Merriweather', serif; width: 100%; max-width: 1000px; color: #FFFFFF;">
+<div style="font-size: 14pt; color: #FFFFFF; background-color: #333333; padding: 20px; display: flex; justify-content: center;">
+  <table style="border-collapse: collapse; border: none; font-family: 'Merriweather', serif; width: 100%; max-width: 1000px; color: #FFFFFF;">
     <tr style="border: none;">
       <td colspan="2" align="center" style="border: none; padding-bottom: 15px;">
-  <span style="color: #FFFFFF; font-family: 'Merriweather', Georgia, serif; font-size: 16pt; font-weight: bold;">
-    Skill Levels
-  </span>
-</td>
+        <span style="color: #FFFFFF; font-family: 'Merriweather', Georgia, serif; font-size: 16pt; font-weight: bold;">
+          Skill Levels
+        </span>
+      </td>
     </tr>
     <tr style="border: none;">
-      <td align="center" style="width: 100%; border: none; padding: 5px; font-family: 'Merriweather', Georgia, serif;">
-        <table style="border:none; border-collapse:collapse; font-family:'Merriweather', Georgia, serif; font-size: 14pt; color: #FFFFFF;">
+      <td style="width: 100%; border: none; padding: 5px; font-family: 'Merriweather', Georgia, serif;">
+        <table style="border:none; border-collapse:collapse; font-family:'Merriweather', Georgia, serif; font-size: 14pt; color: #FFFFFF; margin-left: auto; margin-right: auto;">
           <tr>
             <td style="border:none; padding:2px 8px; white-space:nowrap;">R Language</td>
             <td style="border:none; padding:2px 8px;">█ █ █ █ █ █ █ █ ░ ░</td>
@@ -101,7 +101,7 @@ redirect_from:
         </table>
       </td>
     </tr>
-</table>
+  </table>
 </div>
 
 ## **Professional Experience**
