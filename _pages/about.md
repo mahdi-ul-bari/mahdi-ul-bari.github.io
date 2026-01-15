@@ -62,46 +62,39 @@ redirect_from:
   
 </div>
 
-<div style="font-size: 14pt; color: #FFFFFF; background-color: #333333; padding: 20px; display: flex; justify-content: center;">
-  <table style="border-collapse: collapse; border: none; font-family: 'Merriweather', serif; width: 100%; max-width: 1000px; color: #FFFFFF;">
-    <tr style="border: none;">
-      <td colspan="2" align="center" style="border: none; padding-bottom: 15px;">
-        <span style="color: #FFFFFF; font-family: 'Merriweather', Georgia, serif; font-size: 16pt; font-weight: bold;">
-          Skill Levels
-        </span>
-      </td>
+<div style="font-size: 14pt; color: #FFFFFF; background-color: #333333; padding: 40px; text-align: center;">
+  
+  <div style="margin-bottom: 20px; font-family: 'Merriweather', Georgia, serif; font-size: 16pt; font-weight: bold;">
+    Skill Levels
+  </div>
+
+  <table style="border: none; border-collapse: collapse; font-family: 'Merriweather', Georgia, serif; font-size: 14pt; color: #FFFFFF; margin-left: auto; margin-right: auto; width: auto;">
+    <tr>
+      <td style="padding: 5px 15px; text-align: left; white-space: nowrap;">R Language</td>
+      <td style="padding: 5px 15px; text-align: left; letter-spacing: 2px;">█ █ █ █ █ █ █ █ ░ ░</td>
     </tr>
-    <tr style="border: none;">
-      <td style="width: 100%; border: none; padding: 5px; font-family: 'Merriweather', Georgia, serif;">
-        <table style="border:none; border-collapse:collapse; font-family:'Merriweather', Georgia, serif; font-size: 14pt; color: #FFFFFF; margin-left: auto; margin-right: auto;">
-          <tr>
-            <td style="border:none; padding:2px 8px; white-space:nowrap;">R Language</td>
-            <td style="border:none; padding:2px 8px;">█ █ █ █ █ █ █ █ ░ ░</td>
-          </tr>
-          <tr>
-            <td style="border:none; padding:2px 8px; white-space:nowrap;">SPSS</td>
-            <td style="border:none; padding:2px 8px;">█ █ █ █ █ █ █ █ ░ ░</td>
-          </tr>
-          <tr>
-            <td style="border:none; padding:2px 8px; white-space:nowrap;">Microsoft Excel</td>
-            <td style="border:none; padding:2px 8px;">█ █ █ █ █ █ █ ░ ░ ░</td>
-          </tr>
-          <tr>
-            <td style="border:none; padding:2px 8px; white-space:nowrap;">Microsoft Word</td>
-            <td style="border:none; padding:2px 8px;">█ █ █ █ █ █ █ █ █ █</td>
-          </tr>
-          <tr>
-            <td style="border:none; padding:2px 8px; white-space:nowrap;">PowerPoint</td>
-            <td style="border:none; padding:2px 8px;">█ █ █ █ █ █ █ █ █ ░</td>
-          </tr>
-          <tr>
-            <td style="border:none; padding:2px 8px; white-space:nowrap;">Adobe Illustrator</td>
-            <td style="border:none; padding:2px 8px;">█ █ █ █ █ █ ░ ░ ░ ░</td>
-          </tr>
-        </table>
-      </td>
+    <tr>
+      <td style="padding: 5px 15px; text-align: left; white-space: nowrap;">SPSS</td>
+      <td style="padding: 5px 15px; text-align: left; letter-spacing: 2px;">█ █ █ █ █ █ █ █ ░ ░</td>
+    </tr>
+    <tr>
+      <td style="padding: 5px 15px; text-align: left; white-space: nowrap;">Microsoft Excel</td>
+      <td style="padding: 5px 15px; text-align: left; letter-spacing: 2px;">█ █ █ █ █ █ █ ░ ░ ░</td>
+    </tr>
+    <tr>
+      <td style="padding: 5px 15px; text-align: left; white-space: nowrap;">Microsoft Word</td>
+      <td style="padding: 5px 15px; text-align: left; letter-spacing: 2px;">█ █ █ █ █ █ █ █ █ █</td>
+    </tr>
+    <tr>
+      <td style="padding: 5px 15px; text-align: left; white-space: nowrap;">PowerPoint</td>
+      <td style="padding: 5px 15px; text-align: left; letter-spacing: 2px;">█ █ █ █ █ █ █ █ █ ░</td>
+    </tr>
+    <tr>
+      <td style="padding: 5px 15px; text-align: left; white-space: nowrap;">Adobe Illustrator</td>
+      <td style="padding: 5px 15px; text-align: left; letter-spacing: 2px;">█ █ █ █ █ █ ░ ░ ░ ░</td>
     </tr>
   </table>
+
 </div>
 
 ## **Professional Experience**
