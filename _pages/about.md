@@ -68,30 +68,30 @@ redirect_from:
     Skill Levels
   </div>
 
-  <table style="border: none; border-collapse: collapse; font-family: 'Merriweather', Georgia, serif; font-size: 14pt; color: #FFFFFF; margin-left: auto; margin-right: auto; width: auto;">
+  <table style="border: 0; border-collapse: collapse; font-family: 'Merriweather', Georgia, serif; font-size: 14pt; color: #FFFFFF; margin-left: auto; margin-right: auto; width: auto; outline: none;">
     <tr>
-      <td style="padding: 5px 15px; text-align: left; white-space: nowrap;">R Language</td>
-      <td style="padding: 5px 15px; text-align: left; letter-spacing: 2px;">█ █ █ █ █ █ █ █ ░ ░</td>
+      <td style="padding: 5px 15px; text-align: left; white-space: nowrap; border: 0;">R Language</td>
+      <td style="padding: 5px 15px; text-align: left; letter-spacing: 2px; border: 0;">█ █ █ █ █ █ █ █ ░ ░</td>
     </tr>
     <tr>
-      <td style="padding: 5px 15px; text-align: left; white-space: nowrap;">SPSS</td>
-      <td style="padding: 5px 15px; text-align: left; letter-spacing: 2px;">█ █ █ █ █ █ █ █ ░ ░</td>
+      <td style="padding: 5px 15px; text-align: left; white-space: nowrap; border: 0;">SPSS</td>
+      <td style="padding: 5px 15px; text-align: left; letter-spacing: 2px; border: 0;">█ █ █ █ █ █ █ █ ░ ░</td>
     </tr>
     <tr>
-      <td style="padding: 5px 15px; text-align: left; white-space: nowrap;">Microsoft Excel</td>
-      <td style="padding: 5px 15px; text-align: left; letter-spacing: 2px;">█ █ █ █ █ █ █ ░ ░ ░</td>
+      <td style="padding: 5px 15px; text-align: left; white-space: nowrap; border: 0;">Microsoft Excel</td>
+      <td style="padding: 5px 15px; text-align: left; letter-spacing: 2px; border: 0;">█ █ █ █ █ █ █ ░ ░ ░</td>
     </tr>
     <tr>
-      <td style="padding: 5px 15px; text-align: left; white-space: nowrap;">Microsoft Word</td>
-      <td style="padding: 5px 15px; text-align: left; letter-spacing: 2px;">█ █ █ █ █ █ █ █ █ █</td>
+      <td style="padding: 5px 15px; text-align: left; white-space: nowrap; border: 0;">Microsoft Word</td>
+      <td style="padding: 5px 15px; text-align: left; letter-spacing: 2px; border: 0;">█ █ █ █ █ █ █ █ █ █</td>
     </tr>
     <tr>
-      <td style="padding: 5px 15px; text-align: left; white-space: nowrap;">PowerPoint</td>
-      <td style="padding: 5px 15px; text-align: left; letter-spacing: 2px;">█ █ █ █ █ █ █ █ █ ░</td>
+      <td style="padding: 5px 15px; text-align: left; white-space: nowrap; border: 0;">PowerPoint</td>
+      <td style="padding: 5px 15px; text-align: left; letter-spacing: 2px; border: 0;">█ █ █ █ █ █ █ █ █ ░</td>
     </tr>
     <tr>
-      <td style="padding: 5px 15px; text-align: left; white-space: nowrap;">Adobe Illustrator</td>
-      <td style="padding: 5px 15px; text-align: left; letter-spacing: 2px;">█ █ █ █ █ █ ░ ░ ░ ░</td>
+      <td style="padding: 5px 15px; text-align: left; white-space: nowrap; border: 0;">Adobe Illustrator</td>
+      <td style="padding: 5px 15px; text-align: left; letter-spacing: 2px; border: 0;">█ █ █ █ █ █ ░ ░ ░ ░</td>
     </tr>
   </table>
 
