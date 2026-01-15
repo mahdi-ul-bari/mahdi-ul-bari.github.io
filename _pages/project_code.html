@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Epidemiology Research - R Code Portfolio</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f4f7f6;
+        }
+        h1 {
+            color: #2c3e50;
+            border-bottom: 2px solid #2c3e50;
+            padding-bottom: 10px;
+            text-align: center;
+        }
+        h2 {
+            color: #2980b9;
+            margin-top: 40px;
+            border-left: 5px solid #2980b9;
+            padding-left: 15px;
+        }
+        .code-container {
+            background-color: #282c34;
+            color: #abb2bf;
+            padding: 20px;
+            border-radius: 8px;
+            overflow-x: auto;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            margin-bottom: 30px;
+        }
+        pre {
+            margin: 0;
+            font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
+            font-size: 14px;
+        }
+        .comment { color: #5c6370; font-style: italic; }
+        .section-desc {
+            margin-bottom: 10px;
+            font-style: italic;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Epidemiological Data Analysis in R</h1>
+
+    <h2>1. Environment Setup & Libraries</h2>
+    <p class="section-desc">Loading necessary packages and configuring system fonts for visualization.</p>
+    <div class="code-container">
+        <pre>
+###Libraries#####
+library(tidyverse)
+library(extrafont)
+font_import(prompt = FALSE)  
+loadfonts(device = "win")  
+        </pre>
+    </div>
+
+    <h2>2. Fall Related Analysis</h2>
+    <div class="code-container">
+        <pre>
+####Fall_Related####
+library(readxl)
+library(readxl)
+EPI <- read_excel("C:/Users/Acer/Desktop/EPID_SCI/EPI.xlsx", 
+                  sheet = "Dx")
+view(EPI)
+
+    FF <- EPI %>% filter(Cause %in% c("Fall on the ground", "Fall from height",
+                                     "Fall while carrying heavy weight"))
+
+    cause_year_counts <- FF %>%
+      group_by(Year, Cause) %>%
+      summarise(Count = n()) %>%
+      ungroup()
+    
+
+    cause_year_counts <- cause_year_counts %>%
+      group_by(Year) %>%
+      mutate(Percentage = (Count / sum(Count)) * 100) %>%
+      ungroup()
+ view(cause_year_count)   
+
+FALL<-ggplot(cause_year_counts, aes(x = Year, y = Percentage, color = Cause, group = Cause)) +
+          geom_line(aes(linetype = Cause)) +
+          geom_point(aes(shape = Cause), size = 4) +
+          labs( x = "Year", y = "Percentage (%)") +
+          theme_classic()+
+          scale_x_continuous(breaks = c(2011, 2021))+
+          scale_y_continuous(breaks = c(10,20,30,40,50,60,70,80,90,100))+
+          theme(
+            text = element_text(family = "Times New Roman"),
+            plot.title = element_text(family = "Times New Roman", size = 16),   
+            axis.text = element_text(family = "Times New Roman",  size = 12),  
+            legend.text = element_text(family = "Times New Roman", size = 12),
+            legend.title = element_text(family = "Times New Roman", size = 12)  
+          )
+    
+    
+    ggsave("C:\\Users\\Acer\\Desktop\\EPID_SCI\\Fall History.png",plot = FALL, width = 10.18, height = 3.81, units = "in", dpi = 300)
+        </pre>
+    </div>
+
+    <h2>3. Non-Traumatic Causes</h2>
+    <div class="code-container">
+        <pre>
+###Non-Traumatic ######
+    
+    library(readxl)
+    library(readxl)
+    EPI_N_T <- read_excel("C:/Users/Acer/Desktop/EPID_SCI/EPI.xlsx", 
+                      sheet = "NTT")
+
+  
+N_T <- EPI_N_T %>% filter(Cause %in% c("Transvers myelitis", 
+                                   "Spinal tumour",
+                                   "Pott's disease",
+                                  "Cervical myelopathy",
+                                  "Spina bifida",
+                                  "Neurofibromatosis",
+                                  "Idiopathic"
+                                  ))  
+    
+
+
+cause_year_counts_N_T <- N_T %>%
+  group_by(Year, Cause) %>%
+  summarise(Count = n()) %>%
+  ungroup()
+
+
+cause_year_counts_P_N_T <- cause_year_counts_N_T %>%
+  group_by(Year) %>%
+  mutate(Percentage = (Count / sum(Count)) * 100) %>%
+  ungroup()
+
+
+
+FACET_PLOTT<-ggplot(cause_year_counts_P_N_T, aes(x = Year, y = Percentage, color = Cause, group = Cause)) +
+  geom_point(aes(shape = Cause), size= 4, alpha= 2)+
+  geom_line() +
+  labs(title = "Non-traumatic Causes", x = "Year", y = "Percentage (%)") +
+  theme_minimal()+
+  scale_shape_manual(values = c("Transvers myelitis"= 15,
+                                "Spinal tumour" = 16,
+                                "Pott's disease"=15,
+                                "Cervical myelopathy"=19,
+                                "Spina bifida"=17,
+                                "Neurofibromatosis"=17,
+                                "Idiopathic"=15))+
+  scale_x_continuous(breaks = c(2011,2013,2015,2017,2019,2021))+
+  scale_y_continuous(breaks = c(10,20,30,40,50,60,70,80,90,100))+
+  theme(panel.spacing = unit(1, "cm"),
+    text = element_text(family = "Times New Roman", size = 16),
+    plot.title = element_text(family = "Times New Roman", hjust=0.5,size = 16),   
+    axis.text = element_text(family = "Times New Roman", size = 12),  
+    legend.text = element_blank(),
+    legend.title = element_blank(),
+    legend.position = "none"
+  )+
+  facet_wrap(~Cause)
+ 
+ggsave("C:\\Users\\Acer\\Desktop\\EPID_SCI\\Non_traumatic_Causes.jpg",plot = FACET_PLOTT, width = 10.18, height = 9.81, units = "in", dpi = 900)
+
+?theme
+        </pre>
+    </div>
+
+    <h2>4. Traumatic Causes</h2>
+    <div class="code-container">
+        <pre>
+####Traumatic causes######
+library(tidyverse)
+library(readxl)
+EPI_T <- read_excel("C:/Users/Acer/Desktop/EPID_SCI/EPI.xlsx", 
+                  sheet = "DX_T")
+
+
+
+cause_year_counts_T_T <- EPI_T %>%
+  group_by(Year, Cause) %>%
+  summarise(Count = n()) %>%
+  ungroup()
+
+
+cause_year_counts_T_T_P<- cause_year_counts_T_T %>%
+  group_by(Year) %>%
+  mutate(Percentage = (Count / sum(Count)) * 100) %>%
+  ungroup()
+
+
+F_T<-ggplot(cause_year_counts_T_T_P, aes(x = Year, y = Percentage, color = Cause, group = Cause)) +
+  geom_point(aes(shape = Cause), size=2.5, alpha= 2)+
+  geom_line() +
+  labs(title = "Traumatic Causes", x = "Year", y = "Percentage (%)") +
+  theme_minimal()+
+  scale_shape_manual(values = c("Fall related"= 15,
+                                "Diving into shallow water" = 16,
+                                "Physical assualt"=15,
+                                "Post surgical complications"=19,
+                                "RTA"=17,
+                                "Stab injury"=15,
+                                "Sports injury"=19,
+                                "Gunshot injury"=15,
+                                "Bull attack"=19))+
+  scale_x_continuous(breaks = c(2011,2013,2015,2017,2019,2021))+
+  scale_y_continuous(breaks = c(10,20,30,40,50,60,70,80,90,100))+
+  theme(panel.spacing = unit(1, "cm"),
+        text = element_text(family = "Times New Roman", size = 16),
+        plot.title = element_text(family = "Times New Roman", hjust=0.5,size = 16),   
+        axis.text = element_text(family = "Times New Roman", size = 12),  
+        legend.text = element_blank(),
+        legend.title = element_blank(),
+        legend.position = "none"
+  )+
+  facet_wrap(~Cause)
+ggsave("C:\\Users\\Acer\\Desktop\\EPID_SCI\\Traumatic_Causes.png",plot = F_T, width = 8.18, height = 8.81, units = "in", dpi = 900)
+        </pre>
+    </div>
+
+    <h2>5. Pott's Disease Analysis (Gender Focus)</h2>
+    <div class="code-container">
+        <pre>
+###Pott's disease~Male\Female########
+library(readxl)
+library(readxl)
+EPI_PPT <- read_excel("C:/Users/Acer/Desktop/EPID_SCI/EPI.xlsx", 
+                  sheet = "PPTT")
+
+
+cause_year_counts_POT<- EPI_PPT %>%
+  group_by(Y_DX, Gender) %>%
+  summarise(Count = n()) %>%
+  ungroup()
+
+
+cause_year_counts_POT_F<- cause_year_counts_POT %>%
+  group_by(Y_DX) %>%
+  mutate(Percentage = (Count / sum(Count)) * 100) %>%
+  ungroup()
+
+PP_T<-ggplot(cause_year_counts_POT_F, aes(x = Y_DX, y = Percentage, color = Gender, group = Gender)) +
+  geom_point(aes(shape = Gender), size=4.5, alpha= 2)+
+  geom_line() +
+  labs(title = "Incidence of Pott's Disease", x = "Year", y = "Percentage (%)") +
+  theme_minimal()+
+  scale_shape_manual(values = c("Male"= 15,
+                                "Female" = 17))+
+  scale_x_continuous(breaks = c(2011,2013,2015,2017,2019,2021))+
+  scale_y_continuous(breaks = c(10,20,30,40,50,60,70,80,90,100))+
+  theme(panel.spacing = unit(1, "cm"),
+        text = element_text(family = "Times New Roman", size = 18),
+        plot.title = element_blank(),   
+        axis.text = element_text(family = "Times New Roman", size = 16),  
+        legend.text = element_blank(),
+        legend.title = element_blank(),
+        legend.position = "none"
+  )+
+  facet_wrap(~Gender)
+
+ggsave("C:\\Users\\Acer\\Desktop\\EPID_SCI\\POTT.png",plot = PP_T, width = 10.18, height = 3.81, units = "in", dpi = 900)
+        </pre>
+    </div>
+
+    <h2>6. Yearly Divisions & RTA Outcomes</h2>
+    <div class="code-container">
+        <pre>
+####Yearly_Div#####
+library(tidyverse)
+library(readxl)
+Yearly <- read_excel("C:/Users/Acer/Desktop/EPID_SCI/EPI.xlsx", 
+                  sheet = "YY_I", na = "**")
+View(Yearly)
+
+Y_C <- Yearly %>%
+  drop_na(Division, `Year of Discharge`) %>% 
+group_by(Division, `Year of Discharge`) %>%
+  summarise(Count = n()) %>%
+  ungroup()
+view(Y_C)
+
+Y_F <- Y_C %>%
+  group_by(`Year of Discharge`) %>%
+  mutate(Percentage = round((Count / sum(Count)) * 100, 2)) %>%
+  ungroup()
+view(Y_F)
+
+Y_F_T <- Y_F %>% filter("Percentage")
+
+#####RTA#####
+library(readxl)
+EPI_R <- read_excel("C:/Users/Acer/Desktop/EPID_SCI/EPI.xlsx", 
+                  sheet = "RTA")
+
+
+cause_year_counts_R <- EPI_R %>%
+  group_by(Year, Outcome) %>%
+  summarise(Count = n()) %>%
+  ungroup()
+
+
+cause_year_counts_R <- cause_year_counts_R %>%
+  group_by(Year) %>%
+  mutate(Percentage = (Count / sum(Count)) * 100) %>%
+  ungroup()
+
+RTA_GG<-ggplot(cause_year_counts_R, aes(x = Year, y = Percentage, color = Outcome, group = Outcome)) +
+  geom_line(aes(linetype = Outcome)) +
+  geom_point(aes(shape = Outcome), size = 4) +
+  labs( x = "Year", y = "Percentage (%)") +
+  theme_classic()+
+  scale_x_continuous(breaks = c(2011,2013,2015,2017,2019,2021))+
+  scale_y_continuous(breaks = c(10,20,30,40,50,60,70,80,90,100))+
+  scale_color_manual(values = c("Paraplegic" = "blue", "Tetraplegic" = "red")) +
+  scale_shape_manual(values = c("Paraplegic" = 15, "Tetraplegic" =17)) +
+  scale_linetype_manual(values = c("Paraplegic" = "dashed", "Tetraplegic" = "solid")) +
+  theme(
+    text = element_text(family = "Times New Roman",size = 16),
+    plot.title = element_text(family = "Times New Roman", size = 16),   
+    axis.text = element_text(family = "Times New Roman",  size = 12),  
+    legend.text = element_text(family = "Times New Roman", size = 12),
+    legend.title = element_text(family = "Times New Roman", size = 12)  
+  )
+
+
+ggsave("C:\\Users\\Acer\\Desktop\\EPID_SCI\\RTA.png",plot = RTA_GG, width = 10.18, height = 3.81, units = "in", dpi = 900)
+        </pre>
+    </div>
+
+</body>
+</html>
