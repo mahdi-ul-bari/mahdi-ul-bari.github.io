@@ -14,6 +14,22 @@
             padding: 20px;
             background-color: #f4f7f6;
         }
+        /* Navigation Style */
+        nav {
+            margin-bottom: 20px;
+            padding: 10px;
+            background: #fff;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+        }
+        nav a {
+            text-decoration: none;
+            color: #2980b9;
+            font-weight: bold;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
         h1 {
             color: #2c3e50;
             border-bottom: 2px solid #2c3e50;
@@ -40,7 +56,6 @@
             font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
             font-size: 14px;
         }
-        .comment { color: #5c6370; font-style: italic; }
         .section-desc {
             margin-bottom: 10px;
             font-style: italic;
@@ -49,6 +64,10 @@
     </style>
 </head>
 <body>
+
+    <nav>
+        <a href="index.html">← Back to Main Portfolio</a>
+    </nav>
 
     <h1>Epidemiological Data Analysis in R</h1>
 
@@ -169,8 +188,6 @@ FACET_PLOTT<-ggplot(cause_year_counts_P_N_T, aes(x = Year, y = Percentage, color
   facet_wrap(~Cause)
  
 ggsave("C:\\Users\\Acer\\Desktop\\EPID_SCI\\Non_traumatic_Causes.jpg",plot = FACET_PLOTT, width = 10.18, height = 9.81, units = "in", dpi = 900)
-
-?theme
         </pre>
     </div>
 
@@ -183,19 +200,15 @@ library(readxl)
 EPI_T <- read_excel("C:/Users/Acer/Desktop/EPID_SCI/EPI.xlsx", 
                   sheet = "DX_T")
 
-
-
 cause_year_counts_T_T <- EPI_T %>%
   group_by(Year, Cause) %>%
   summarise(Count = n()) %>%
   ungroup()
 
-
 cause_year_counts_T_T_P<- cause_year_counts_T_T %>%
   group_by(Year) %>%
   mutate(Percentage = (Count / sum(Count)) * 100) %>%
   ungroup()
-
 
 F_T<-ggplot(cause_year_counts_T_T_P, aes(x = Year, y = Percentage, color = Cause, group = Cause)) +
   geom_point(aes(shape = Cause), size=2.5, alpha= 2)+
@@ -226,7 +239,7 @@ ggsave("C:\\Users\\Acer\\Desktop\\EPID_SCI\\Traumatic_Causes.png",plot = F_T, wi
         </pre>
     </div>
 
-    <h2>5. Pott's Disease Analysis (Gender Focus)</h2>
+    <h2>5. Pott's Disease Analysis</h2>
     <div class="code-container">
         <pre>
 ###Pott's disease~Male\Female########
@@ -235,12 +248,10 @@ library(readxl)
 EPI_PPT <- read_excel("C:/Users/Acer/Desktop/EPID_SCI/EPI.xlsx", 
                   sheet = "PPTT")
 
-
 cause_year_counts_POT<- EPI_PPT %>%
   group_by(Y_DX, Gender) %>%
   summarise(Count = n()) %>%
   ungroup()
-
 
 cause_year_counts_POT_F<- cause_year_counts_POT %>%
   group_by(Y_DX) %>%
@@ -278,34 +289,27 @@ library(tidyverse)
 library(readxl)
 Yearly <- read_excel("C:/Users/Acer/Desktop/EPID_SCI/EPI.xlsx", 
                   sheet = "YY_I", na = "**")
-View(Yearly)
 
 Y_C <- Yearly %>%
   drop_na(Division, `Year of Discharge`) %>% 
 group_by(Division, `Year of Discharge`) %>%
   summarise(Count = n()) %>%
   ungroup()
-view(Y_C)
 
 Y_F <- Y_C %>%
   group_by(`Year of Discharge`) %>%
   mutate(Percentage = round((Count / sum(Count)) * 100, 2)) %>%
   ungroup()
-view(Y_F)
-
-Y_F_T <- Y_F %>% filter("Percentage")
 
 #####RTA#####
 library(readxl)
 EPI_R <- read_excel("C:/Users/Acer/Desktop/EPID_SCI/EPI.xlsx", 
                   sheet = "RTA")
 
-
 cause_year_counts_R <- EPI_R %>%
   group_by(Year, Outcome) %>%
   summarise(Count = n()) %>%
   ungroup()
-
 
 cause_year_counts_R <- cause_year_counts_R %>%
   group_by(Year) %>%
@@ -329,7 +333,6 @@ RTA_GG<-ggplot(cause_year_counts_R, aes(x = Year, y = Percentage, color = Outcom
     legend.text = element_text(family = "Times New Roman", size = 12),
     legend.title = element_text(family = "Times New Roman", size = 12)  
   )
-
 
 ggsave("C:\\Users\\Acer\\Desktop\\EPID_SCI\\RTA.png",plot = RTA_GG, width = 10.18, height = 3.81, units = "in", dpi = 900)
         </pre>
